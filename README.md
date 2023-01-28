@@ -11,7 +11,10 @@ You can generate multiple API keys, and use them in different applications, or a
 
 ## Using Python library
 
-You can easy get datas from your JsonDB in python, with only three lines of code:
+Unfortunately, I have tried to upload on pypi, but it gives me so many errors.
+To install, you must to put the file in [src/jsondb.py](https://github.com/Nicrom098195/JsonDB/blob/main/src/jsondb.py) in the main directory of your project.
+
+After installation, you can easy get datas from your JsonDB in python, with only three lines of code:
 
 ##### To store data:
 

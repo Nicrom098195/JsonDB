@@ -45,7 +45,7 @@ After installation, you can easy get datas from your JsonDB in python, with only
 
 ## Using other languages
 
-You can access to *JsonDB* in any language, and we are working to a GUI for manage it.
+You can access to *JsonDB* in any programming language, or use my [GUI](https://jsondb.nicrom09.repl.co/ui.php) to manage it.
 
 To access JsonDB you must to make an HTTP request to some URLs
 

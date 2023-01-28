@@ -1,6 +1,9 @@
 # <img src="https://github.com/Nicrom098195/JsonDB/blob/main/JsonDB.png?raw=true" alt="Logo" width="23px"/>Json DB<img src="https://github.com/Nicrom098195/JsonDB/blob/main/JsonDB.png?raw=true" alt="Logo" width="23px"/>
 ## An open-source DB written in Php and Json
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Nicrom098195/JsonDB)
+![GitHub Repo stars](https://img.shields.io/github/stars/Nicrom098195/JsonDB?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Nicrom098195/JsonDB?style=social)
 
 JsonDB is a simple DataBase system written in php and json, that can store online data and recover them in any programming language.
 
